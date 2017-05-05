@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MobileApplication</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="search_by_city">Search By City..</string>
+    <string-array name="city_Names">
+        <item>Select City</item>
+        <item>Helwan</item>
+        <item>Nasr City</item>
+        <item>El-salam city</item>
+        <item>El-Nozha</item>
+    </string-array>
+</resources>
